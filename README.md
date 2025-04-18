@@ -98,3 +98,11 @@ Meenakshi Sundararajan Engineering College
 ---
 
 > This project exemplifies the application of smart technology to streamline event management through mobile development and cloud integration.
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE) © 2024 Pujah Balasubramaniam.
+
+---
